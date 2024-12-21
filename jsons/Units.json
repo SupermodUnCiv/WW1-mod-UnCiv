@@ -2,16 +2,16 @@
 	{
 		"name": "German artilery",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Germany",
 		"replaces": "Artilery",
 		"movement": 2,
 		"strength": 30,
-		"rangedStrength": 60,
-		"range": 3,
-		"cost": 350,
+		"rangedStrength": 45,
+		"range": 4,
+		"cost": 400,
 		"requiredTech": "Dynamit",
-		"requiredResource": "Uranium",
+		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy 2"],
-		"attackSound": "artilery"
+		"attackSound": "Artilery"
 	}
 ]
